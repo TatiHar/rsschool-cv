@@ -12,6 +12,13 @@
 + Phython
 + Git, GitHub
 + Statistical analysis
+### Education
++ University: Belarusian State Medical University (2013-2019)
+
+### Languages
++ Belarusian - Native
++ Russian - Native
++ English - Pre-Intermediate 
 
 ### Code 
 ```python
@@ -21,6 +28,3 @@
  "nbformat": 4,
  "nbformat_minor": 5
 }
-
-### Education
-+ University: Belarusian State Medical University (2013-2019)
