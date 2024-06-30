@@ -7,5 +7,13 @@
 *I am a dedicated and hardworking person who pay special attention to quality and efficiency. I pay special attention to the accuracy of my tasks.*
 ### Skills
 + Phython
-+ Pre-Intermediate 
-+ Git
++ Git, GitHub
++ Statistical analysis
+### Code 
+```python
+{
+ "cells": [],
+ "metadata": {},
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
