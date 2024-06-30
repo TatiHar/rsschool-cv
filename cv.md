@@ -2,7 +2,7 @@
 
 ### Contacts
 + Email: t.haritonova1996@gmail.com
-+ GitHub: https://github.com/
++ GitHub: https://github.com/TatiHar
 + Location: Belynichi, Belarus
 
 ### About Me
